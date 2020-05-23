@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/index" android:title="Index"/>
+    <item android:id="@+id/request" android:title="Request New Book" />
+    <item android:id="@+id/contact" android:title="Contact Developer" />
+
+    <item android:id="@+id/notes" android:title="Create Your Bookmark" app:showAsAction="always"  android:icon="@drawable/ic_note_add_black_24dp" />
+</menu>

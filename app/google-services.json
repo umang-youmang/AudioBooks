@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "192236354072",
+    "firebase_url": "https://audiobooks-5b43c.firebaseio.com",
+    "project_id": "audiobooks-5b43c",
+    "storage_bucket": "audiobooks-5b43c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192236354072:android:1ec4227e793a5d4142616d",
+        "android_client_info": {
+          "package_name": "com.audiocabs.audiobooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192236354072-6492mmjp8m6882arb5sg4ie0bkilo1rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdPWU5yzjPc0JKQ4kc88LuLQ0DDskFJ40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192236354072-6492mmjp8m6882arb5sg4ie0bkilo1rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192236354072:android:2b68e940c8a30e6842616d",
+        "android_client_info": {
+          "package_name": "com.audiocabs.audiobookserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192236354072-6492mmjp8m6882arb5sg4ie0bkilo1rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdPWU5yzjPc0JKQ4kc88LuLQ0DDskFJ40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192236354072-6492mmjp8m6882arb5sg4ie0bkilo1rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

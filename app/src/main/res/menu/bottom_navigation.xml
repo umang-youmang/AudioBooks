@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/audiobook" android:icon="@drawable/audio" android:title="Audioboooks" app:showAsAction="ifRoom" android:enabled="true"/>
+    <item android:id="@+id/ebook" android:icon="@drawable/book" android:title="Ebooks" app:showAsAction="ifRoom" android:enabled="true"/>
+</menu>
